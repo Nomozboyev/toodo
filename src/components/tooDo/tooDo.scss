@@ -1,0 +1,15 @@
+.toodoo{
+    width: 400px;
+    padding-left: 10px  ;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 0.2px solid rgba(0, 0, 0, 0.397);
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+.toodoo:hover{
+    transform: scale(1.05);
+}
